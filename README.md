@@ -1,2 +1,2 @@
 # Motif-Search
-Search biggest clique in graph structure - clique elem represent the most common motif.
+Search biggest clique in graph structure (heuristic) - clique elem represent the most common motif.
